@@ -1,0 +1,19 @@
+# intellij-shortcuts
+
+This projects is used for IntelliJ keyboard shortcuts
+
+## Download and documentation
+
+link:https://docs.openshift.com/enterprise/3.1/cli_reference/get_started_cli.html[Get Started with the CLI]
+
+link:https://access.redhat.com/downloads/content/290[Download the CLI]
+
+## Keyboard Shortcuts
+
+### Ctrl+Shift+Enter 
+
+*Completing code constructs:* start typing a code construct and press Ctrl+Shift+Enter:
+IntelliJ IDEA automatically completes the construct, and the caret is placed at the next editing position:
+
+*Automatic encapsulation:* IntelliJ IDEA automatically encapsulates a method call when you directly type a new method call next to it.
+  
